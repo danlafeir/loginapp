@@ -1,8 +1,4 @@
 import React from 'react';
-import { jsdom } from 'jsdom';
-
-import { expect } from 'chai';
-import { mount } from 'enzyme';
 
 import LoginPage from '../LoginPage'
 
